@@ -9,10 +9,10 @@ Built with **React + Vite** on the frontend and **Express + Claude API** on the 
 ## Screenshots
 
 ### Setup
-![Setup screen](assets/screenshot-setup.png)
+<img src="assets/screenshot-setup.png" width="700" alt="Setup screen" />
 
 ### Interview Questions
-![Questions screen](assets/screenshot-questions.png)
+<img src="assets/screenshot-questions.png" width="700" alt="Questions screen" />
 
 ---
 
