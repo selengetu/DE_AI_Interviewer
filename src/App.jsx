@@ -139,9 +139,9 @@ function SetupScreen({ onStart }) {
     <div className="setup-screen">
       <div className="setup-hero">
         <div className="setup-icon">🎯</div>
-        <h1 className="setup-title">DE Interview Prep</h1>
+        <h1 className="setup-title">Data Engineering Interview Prep</h1>
         <p className="setup-subtitle">
-          AI-powered mock interview tailored to your target data engineering role
+          Mock interview tailored to your target data engineering role
         </p>
         <div className="setup-pillars">
           {Object.values(PILLAR_META).map((m) => (
